@@ -1,0 +1,5 @@
+certifi==2020.12.5
+chromedriver-binary==87.0.4280.88.0
+pyperclip==1.8.1
+selenium==3.141.0
+urllib3==1.26.2
